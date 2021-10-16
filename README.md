@@ -8,4 +8,4 @@ It's a CLI app to test your knowledge of Automobiles.
 
 #### Question Credits :
 
-*ProProfs Quizzes
+* ProProfs Quizzes
