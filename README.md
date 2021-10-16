@@ -1,6 +1,6 @@
 # Test your knowledge about Automobiles.
 
-It's a CLI app to test your knowledge of Automobiles.
+It's a CLI app to test your knowledge abouttomobiles.
 
 ### Want to play this game?
 
